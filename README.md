@@ -1,4 +1,4 @@
-# html-exercise-mock-business
+# HTML Exercise - Mock Business
 
 This is an introductory NSS Evening Cohort 3 exercise that focuses on HTML semantics and includes a minimal amount of basic CSS.
 
